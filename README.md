@@ -9,9 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/mahmuthanb" target="blank"><img src="https://img.shields.io/twitter/follow/mahmuthanb?logo=twitter&style=for-the-badge" alt="mahmuthanb" /></a> </p>
 
+<!--
 - 🔭 I’m currently working on [Magfi](https://magfi.co)
-
-- 🌱 I’m currently learning **Flutter**
+-->
+- 🌱 I’m currently learning and teaching **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmuthanb](https://github.com/mahmuthanb)
 
